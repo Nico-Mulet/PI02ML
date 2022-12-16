@@ -1,5 +1,5 @@
-# <h1 align="center"> Hola! les presento mi <p align="center">
-# <h1 align="center">**Proyecto Individual N°2** <p align="center">
+# <h1 align="center"> Hola! les presento mi **Proyecto Individual N°2** <p align="center">
+
 
   
   <p align="center">
